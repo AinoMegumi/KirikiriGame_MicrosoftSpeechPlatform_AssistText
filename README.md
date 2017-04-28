@@ -1,0 +1,2 @@
+# KirikiriGame_MicrosoftSpeechPlatform_AssistText
+吉里吉里で作られたゲームのMicrosoft Speech Platformでの読み上げ機能の読み間違いを修正するためのファイルのリポジトリ
